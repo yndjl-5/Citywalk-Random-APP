@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Sometimes I want to go outside and explore Taipei, but I don't know where to go. Planning a trip can also take a lot of time. That's why I created **Taipei CityWalk**, an app that helps people discover new places in Taipei in a fun and simple way.
+Sometimes I want to go outside and explore Taipei, but I don't know where to go. Planning a trip can also take a lot of time. That's why I created Taipei CityWalk, an app that helps people discover new places in Taipei in a fun and simple way.
 
 Users can randomly get an MRT line, station, and exit, along with a small walking challenge.
 
